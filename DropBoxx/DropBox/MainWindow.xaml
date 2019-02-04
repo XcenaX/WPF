@@ -1,0 +1,28 @@
+﻿<Window x:Class="DropBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DropBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="auto" Width="auto" Name="Main">
+    <Grid x:Name="dropBoxData"  Height="700" Width="700" VerticalAlignment="Center" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="140*"/>
+            <ColumnDefinition Width="140*"/>
+            <ColumnDefinition Width="140*"/>
+            <ColumnDefinition Width="140*"/>
+            <ColumnDefinition Width="140*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140*"/>
+            <RowDefinition Height="140*"/>
+            <RowDefinition Height="140*"/>
+            <RowDefinition Height="140*"/>
+            <RowDefinition Height="140*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="4">
+        </TextBlock>
+        <Button Content="Обновить" Grid.Column="3" HorizontalAlignment="Left" Height="29" Margin="91,102,0,-64" Grid.Row="4" VerticalAlignment="Top" Width="80" Grid.ColumnSpan="2" Click="Run"/>
+    </Grid>
+</Window>
