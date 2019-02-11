@@ -1,0 +1,15 @@
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\bin\Debug\DataBinding HomeWork.exe.config
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\bin\Debug\DataBinding HomeWork.exe
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\bin\Debug\DataBinding HomeWork.pdb
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\obj\Debug\DataBinding HomeWork.csprojAssemblyReference.cache
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\obj\Debug\MainWindow.g.cs
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\obj\Debug\App.g.cs
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\obj\Debug\DataBinding HomeWork_MarkupCompile.cache
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\obj\Debug\DataBinding HomeWork_MarkupCompile.lref
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\obj\Debug\MainWindow.baml
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\obj\Debug\DataBinding HomeWork.g.resources
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\obj\Debug\DataBinding_HomeWork.Properties.Resources.resources
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\obj\Debug\DataBinding HomeWork.csproj.GenerateResource.cache
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\obj\Debug\DataBinding HomeWork.csproj.CoreCompileInputs.cache
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\obj\Debug\DataBinding HomeWork.exe
+c:\users\лебедевв.corp.000\source\repos\DataBinding HomeWork\DataBinding HomeWork\obj\Debug\DataBinding HomeWork.pdb

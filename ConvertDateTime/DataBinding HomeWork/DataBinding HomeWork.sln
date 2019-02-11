@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBinding HomeWork", "DataBinding HomeWork\DataBinding HomeWork.csproj", "{F55FD6F6-5FEC-4929-AD96-6A864AFEA3FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55FD6F6-5FEC-4929-AD96-6A864AFEA3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55FD6F6-5FEC-4929-AD96-6A864AFEA3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55FD6F6-5FEC-4929-AD96-6A864AFEA3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55FD6F6-5FEC-4929-AD96-6A864AFEA3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {576049D8-B244-4B2B-BDC9-338C61F20163}
+	EndGlobalSection
+EndGlobal
