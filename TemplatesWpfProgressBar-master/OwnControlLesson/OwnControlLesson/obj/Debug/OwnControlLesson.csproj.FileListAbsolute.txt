@@ -1,0 +1,16 @@
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\bin\Debug\OwnControlLesson.exe.config
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\bin\Debug\OwnControlLesson.exe
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\bin\Debug\OwnControlLesson.pdb
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\obj\Debug\OwnControlLesson.csprojAssemblyReference.cache
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\obj\Debug\MainWindow.g.cs
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\obj\Debug\App.g.cs
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\obj\Debug\OwnControlLesson_MarkupCompile.cache
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\obj\Debug\OwnControlLesson_MarkupCompile.lref
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\obj\Debug\MainWindow.baml
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\obj\Debug\OwnControlLesson.g.resources
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\obj\Debug\OwnControlLesson.Properties.Resources.resources
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\obj\Debug\OwnControlLesson.csproj.GenerateResource.cache
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\obj\Debug\OwnControlLesson.csproj.CoreCompileInputs.cache
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\obj\Debug\OwnControlLesson.exe
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\obj\Debug\OwnControlLesson.pdb
+C:\Users\КалиаскарР\source\repos\OwnControlLesson\OwnControlLesson\obj\Debug\App.baml
